@@ -35,6 +35,12 @@
   border-radius: 0px 0px 8px 8px;
   position: absolute;
   bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn-text {
+  margin-right: 5px;
 }
 .btn-cart:hover {
   background-color: tomato;
