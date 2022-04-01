@@ -24,3 +24,11 @@
   scroll-behavior: smooth;
   transition: 0.7s;
 }
+@media screen and (max-width: 570px) {
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+}
